@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Samichha13
+- 👀 I’m interested in `Koding`
+- 🌱 I’m currently learning `DSA`
