@@ -7,7 +7,7 @@
   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
 </div>
 
-### <div align="center">I'm a Student of Manipal University University, India. Learning web development and doing DSA</div>
+### <div align="center">I'm a Student at Manipal University Jaipur , India. Learning web development and DSA simultaneously. </div>
 
 - 🌱 I’m currently learning [C](https://en.wikipedia.org/wiki/C_(programming_language)) & [HTML](https://en.wikipedia.org/wiki/HTML)
   
