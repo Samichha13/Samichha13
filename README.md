@@ -9,7 +9,7 @@
 
 ### <div align="center">I'm a Student at Manipal University Jaipur , India. Learning web development and DSA simultaneously. </div>
 
-- 🌱 I’m currently learning [C](https://en.wikipedia.org/wiki/C_(programming_language)) & [HTML](https://en.wikipedia.org/wiki/HTML)
+- 🌱 I’m currently learning [DSA in C++](https://en.wikipedia.org/wiki/C_(programming_language)) & [JavaScript](https://en.wikipedia.org/wiki/HTML)
   
 - ❓ You can Email Me Through [Here](mailto:samichha1013@gmail.com)
 
